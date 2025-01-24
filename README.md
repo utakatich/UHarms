@@ -1,2 +1,2 @@
 # UHarms
-Auto utau harms
+-A script that creates automatic harmonies📄
